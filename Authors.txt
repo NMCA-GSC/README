@@ -1,8 +1,3 @@
-This file is the official `Authors.txt` defined and used for the NMCA GSC License Agreement for VitalLink.
+This file is the official `Authors.txt` defined and used for the NMCA GSC License Agreement for [NAME OF PROJECT].
 
-Carley Carmen Chavez-Williamson
-Daniel Chavez-Williamson
-Karma Bromwell
-Malachi Syfrett
-Taylor Sipes
-Tristan McNally
+#List of team members names
