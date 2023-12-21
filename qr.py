@@ -1,6 +1,8 @@
+#QR Code generator for link to PAGES website.
+
 import qrcode
 
-data = "https://nmca-gsc.github.io/GSC-2023/?src=https://github.com/NMCA-GSC/GSC-2023/blob/main/README.md"
+data = "" #input link to README.md file for your project
 
 img = qrcode.make(data)
  
